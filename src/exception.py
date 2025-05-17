@@ -1,6 +1,6 @@
 import logging
 import sys
-from logger import *
+from src.logger import logging
 
 # 1. Custom error formatter
 def error_message_details(error, error_detail: sys):
